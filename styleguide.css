@@ -1,0 +1,88 @@
+:root { 
+    --black: #000000;
+    --white: #ffffff;
+    --white-2: #ffffff2b;
+    --white-3: #ffffff0d;
+   
+    --font-size-l: 16px;
+    --font-size-m: 12px;
+    --font-size-xl: 20px;
+    --font-size-xxl: 24px;
+    --font-size-xxxl: 34px;
+    --font-size-xxxxl: 40px;
+    --font-size-xxxxxl: 48px;
+   
+    --font-family-montserrat: "Montserrat", Helvetica;
+  }
+  .montserrat-medium-white-16px {
+    color: var(--white);
+    font-family: var(--font-family-montserrat);
+    font-size: var(--font-size-l);
+    font-style: normal;
+    font-weight: 500;
+  }
+  
+  .montserrat-medium-white-12px {
+    color: var(--white);
+    font-family: var(--font-family-montserrat);
+    font-size: var(--font-size-m);
+    font-style: normal;
+    font-weight: 500;
+  }
+  
+  .montserrat-extra-bold-white-40px {
+    color: var(--white);
+    font-family: var(--font-family-montserrat);
+    font-size: var(--font-size-xxxxl);
+    font-style: normal;
+    font-weight: 800;
+  }
+  
+  .montserrat-extra-bold-white-24px {
+    color: var(--white);
+    font-family: var(--font-family-montserrat);
+    font-size: var(--font-size-xxl);
+    font-style: normal;
+    font-weight: 800;
+  }
+  
+  .montserrat-bold-white-16px {
+    color: var(--white);
+    font-family: var(--font-family-montserrat);
+    font-size: var(--font-size-l);
+    font-style: normal;
+    font-weight: 700;
+  }
+  
+  .montserrat-extra-bold-white-34px {
+    color: var(--white);
+    font-family: var(--font-family-montserrat);
+    font-size: var(--font-size-xxxl);
+    font-style: normal;
+    font-weight: 800;
+  }
+  
+  .montserrat-extra-bold-white-48px {
+    color: var(--white);
+    font-family: var(--font-family-montserrat);
+    font-size: var(--font-size-xxxxxl);
+    font-style: normal;
+    font-weight: 800;
+  }
+  
+  .montserrat-extra-bold-white-20px {
+    color: var(--white);
+    font-family: var(--font-family-montserrat);
+    font-size: var(--font-size-xl);
+    font-style: normal;
+    font-weight: 800;
+  }
+  
+  .montserrat-extra-bold-white-22px {
+    color: var(--white);
+    font-family: var(--font-family-montserrat);
+    font-size: 22px;
+    font-style: normal;
+    font-weight: 800;
+  }
+  
